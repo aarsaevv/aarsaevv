@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://aarsaevv.github.io" target="_blank">Evgeny Arsaev</a></h1>
 <h3 align="center">Frontend developer from Novosibirsk, Russia</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js, Redux-Saga**
+- 🌱 I’m currently learning **React.js, Next.js, Redux**
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/aarsaevv)
 
