@@ -6,4 +6,4 @@
 - 👨‍💻 All of my projects are available <a href="https://github.com/aarsaevv" target="_blank">HERE</a> and <a href="https://gitlab.com/aarsaevv" target="_blank">HERE</a>
 
 - 📫 Feel free to write me **arsaevgeny@gmail.com**
-- 👾 Also look at my cool <a href="https://github.com/aarsaevv" target="_blank">Github Page</a>
+- 👾 Also look at my cool <a href="https://aarsaevv.github.io" target="_blank">Github Page</a>
