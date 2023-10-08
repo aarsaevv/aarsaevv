@@ -6,3 +6,4 @@
 - 👨‍💻 All of my projects are available [HERE](https://github.com/aarsaevv) and [HERE](https://gitlab.com/aarsaevv)
 
 - 📫 Feel free to write me **arsaevgeny@gmail.com**
+- 👾 Also look at my cool [github page](https://aarsaevv.github.io)
