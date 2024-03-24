@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Evgeny</h1>
-<h3 align="center">Web developer from Moscow, Russia</h3>
+<h1>Hi 👋, I'm Evgeny</h1>
+<h1>Web developer from Moscow, Russia</h3>
 
 - 🌱 I specialize in **Vue and Nuxt**
 - 👨‍💻 My repos are available <a href="https://github.com/aarsaevv" target="_blank">HERE</a> and <a href="https://gitlab.com/aarsaevv" target="_blank">HERE</a>
